@@ -1,6 +1,6 @@
 ### 👋 Hello! My name is Kaid Mossburgh 
-- 💼 I’m working for: Thunderhead Engineering as a Software Engineer
-- 🔭 I’m looking for: new opportunities to challenge myself as a developer 
+- 💼 I’m working as a Software Engineer for Thunderhead
+- 🔭 I’m seeking new challenging development opportunities 
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kaid/)!  
 <!--
 **kdmoss/kdmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
