@@ -1,5 +1,5 @@
 ### 👋 Hello! My name is Kaid Mossburgh 
-- 💼 I’m working as a Software Engineer for Thunderhead Engineering
+- 💼 I’m working as a Senior Software Engineer for Thunderhead Engineering
 - 🔭 I’m seeking new challenging development opportunities 
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kaid/)!  
 <!--
